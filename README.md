@@ -2,6 +2,10 @@
 
 Este proyecto implementa un agente de Langchain utilizando el modelo `OllamaLLM`, capaz de realizar operaciones matemáticas simples, como sumar y restar números, mediante el uso de herramientas integradas.
 
+### Diagrama de un agente 
+![Texto alternativo](public/agnte_d.png)
+
+
 ## Requisitos
 
 Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes módulos:
