@@ -17,3 +17,13 @@ Instala los requisitos usando:
 
 ```bash
 pip install langchain_ollama langchain
+````
+para usar wikipedia langchain
+```bash
+pip install --upgrade --quiet  wikipedia
+````
+para usar wikipedia langchain
+```bash
+pip install --upgrade --quiet  playwright > $null
+pip install --upgrade --quiet  lxml
+playwright install
