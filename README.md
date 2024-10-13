@@ -22,7 +22,7 @@ para usar wikipedia langchain
 ```bash
 pip install --upgrade --quiet  wikipedia
 ````
-para usar wikipedia langchain
+para usar playwright langchain
 ```bash
 pip install --upgrade --quiet  playwright > $null
 pip install --upgrade --quiet  lxml
